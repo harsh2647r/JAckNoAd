@@ -13,7 +13,7 @@ A simple Chrome extension that blocks annoying ads, including banners, pop-ups, 
 sh
 Copy
 Edit
-git clone https://github.com/your-username/JAcK_NoAd.git
+git clone https://github.com/harsh2647r/JAcK_NoAd.git
 2️⃣ Load the Extension in Chrome:
 
 Open Chrome and go to chrome://extensions/
